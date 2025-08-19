@@ -1,5 +1,6 @@
 ---
 title: "hmcln.xyz"
+author: Hamish McLean
 ---
 
 ```poetry
