@@ -1,11 +1,9 @@
 ---
-title: "hmcln.xyz"
+title: "My Digital Garden"
 author: Hamish McLean
 ---
 
-```poetry
-G'day!
-```
+# G'day
 
 I'm Hamish and this is my _digital garden_ - an informal blog and collection of
 thoughts, complete with the connections between them. The idea of a digital
