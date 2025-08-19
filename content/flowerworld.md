@@ -5,8 +5,6 @@ tags:
   - flowerworld
 ---
 
-# flowerworld
-
 flowerworld is gonna come up a lot on this site so I think it's best I at least
 have some kind of home page for it. As mentioned on the homepage, it's an idea
 I've had for 3 years now, and seems to become a more and more pertinent concept
