@@ -37,7 +37,7 @@ digital reality, however I believe it made physical reality sound far too gross.
 Physical reality is not a fleshy hell constrained by meat - it is the world where
 the flowers are.
 
-I am writing this with quite a bit of [urgency](#TODO) - I believe these
+I am writing this with quite a bit of [urgency](notes/1755608969-urgency.md) - I believe these
 feelings and these terms are extremely pertinent, and, most importantly, I want
 to clarify my own opinions regarding these things for my own sake.
 
