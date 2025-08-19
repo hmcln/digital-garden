@@ -1,9 +1,12 @@
 ---
-title: "My Digital Garden"
+id: index
+aliases: []
+tags: []
 author: Hamish McLean
+title: My Digital Garden
 ---
 
-# G'day
+# G'day!
 
 I'm Hamish and this is my _digital garden_ - an informal blog and collection of
 thoughts, complete with the connections between them. The idea of a digital
@@ -20,7 +23,7 @@ coalesce and publish my thoughts on the concept of _flowerworld_.
 
 ## Flowerworld
 
-In the year of our lord 2022, I coined the term [flowerworld](#TODO),
+In the year of our lord 2022, I coined the term [flowerworld](./flowerworld.md),
 and have since explored and explained it many times, but produced nothing
 concrete to disseminate it broadly. I have repeatedly set the bar too high - believing
 that the only way to do the idea justice were big ambitious philosophical
