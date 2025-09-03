@@ -15,10 +15,10 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "local",
       cdnCaching: true,
       typography: {
-        header: "Kelmscott Mono",
+        header: "kelmscott_monomedium",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },

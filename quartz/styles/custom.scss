@@ -1,3 +1,21 @@
 @use "./base.scss";
 
+// Local font definition
+@font-face {
+  font-family: 'kelmscott_monomedium';
+  src: url('/static/font/kelmscottmono-webfont.woff2') format('woff2'),
+       url('/static/font/kelmscottmono-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// Also define with font-weight 700 in case Quartz requests bold
+@font-face {
+  font-family: 'kelmscott_monomedium';
+  src: url('/static/font/kelmscottmono-webfont.woff2') format('woff2'),
+       url('/static/font/kelmscottmono-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
 // put your custom CSS here!
