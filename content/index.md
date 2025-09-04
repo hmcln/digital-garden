@@ -49,7 +49,7 @@ especially great interest in where they intersect.
 - I am currently interested in creating physical media players and personal
   devices on the STM32 architecture using the Rust [embassy project](https://github.com/embassy-rs/embassy).
 - I collect physical media and now exclusively listen to and consume
-  music I physically and digitally own - [reasonable media consumption](notes/reasonable-media-consumption.md). This is done
+  music I physically and digitally own - [within reason](notes/reasonable-media-consumption.md). This is done
   on my [iPod Classic](#TODO).
 - I am a full-stack developer in my profession, however I do not have much to
   say about that at the moment. I am interested in Typescript standards and DevEx
