@@ -6,7 +6,7 @@ author: Hamish McLean
 title: My Digital Garden
 ---
 
-# G'day!
+# G'day
 
 I'm Hamish and this is my _digital garden_ - an informal blog and collection of
 thoughts, complete with the connections between them. The idea of a digital
@@ -16,14 +16,14 @@ Feel free to [check it out here](https://quartz.jzhao.xyz/).
 
 # What is this? Why?
 
-There are two answers to this question, one is that I simply wanted a blog to
-write down my thoughts on various things as a device for formulating my own
+There are two answers to these questions, one is that I simply wanted a place to
+write down my ideas on various things as a device for formulating my own
 thoughts more clearly. The second, is that I needed somewhere to informally
 coalesce and publish my thoughts on the concept of _flowerworld_.
 
 ## Flowerworld
 
-In the year of our lord 2022, I coined the term [flowerworld](./flowerworld.md),
+In the year of our lord 2022, I coined the term [flowerworld](./posts/flowerworld.md),
 and have since explored and explained it many times, but produced nothing
 concrete to disseminate it broadly. I have repeatedly set the bar too high - believing
 that the only way to do the idea justice were big ambitious philosophical
@@ -37,7 +37,7 @@ digital reality, however I believe it made physical reality sound far too gross.
 Physical reality is not a fleshy hell constrained by meat - it is the world where
 the flowers are.
 
-I am writing this with quite a bit of [urgency](notes/1755608969-urgency.md) - I believe these
+I am writing this with quite a bit of [urgency](notes/urgency.md) - I believe these
 feelings and these terms are extremely pertinent, and, most importantly, I want
 to clarify my own opinions regarding these things for my own sake.
 
@@ -48,8 +48,8 @@ especially great interest in where they intersect.
 
 - I am currently interested in creating physical media players and personal
   devices on the STM32 architecture using the Rust [embassy project](https://github.com/embassy-rs/embassy).
-- I collect [physical media](#TODO) and now exclusively listen to and consume
-  music I physically and digitally own - [within reason](#TODO) . This is done
+- I collect physical media and now exclusively listen to and consume
+  music I physically and digitally own - [reasonable media consumption](notes/reasonable-media-consumption.md). This is done
   on my [iPod Classic](#TODO).
 - I am a full-stack developer in my profession, however I do not have much to
   say about that at the moment. I am interested in Typescript standards and DevEx
